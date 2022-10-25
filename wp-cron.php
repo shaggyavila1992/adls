@@ -1,5 +1,6 @@
 <?php
 /**
+ * /**
  * A pseudo-cron daemon for scheduling WordPress tasks.
  *
  * WP-Cron is triggered when the site receives a visit. In the scenario
