@@ -32,7 +32,6 @@ define( 'DB_PASSWORD', '4tunD010r35' );
 
 /** Database hostname */
 define( 'DB_HOST', '127.0.0.1' );
-/** Database hostname */
 
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8' );
