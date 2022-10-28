@@ -28,4 +28,8 @@
 .elementor-tab-title.elementor-active::before{
     
      background: #F9D952;
+}
+.content-box-description a{
+    color: #FFF;
+    text-decoration: underline;
 }/* End custom CSS */
